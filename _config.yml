@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Learning
 header-img: img/home-bg.png
 email: yurinas@gmail.com
 copyright_name: rina71
 description: > # this means to ignore newlines until "baseurl:"
-  
+  coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rina71
